@@ -1,0 +1,1 @@
+crop_process.py --name build-detail --ref crop_ref --path Benchmarks\build-detail --mouse

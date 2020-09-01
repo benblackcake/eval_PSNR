@@ -1,0 +1,1 @@
+crop_process.py --name build --ref crop_ref --path Benchmarks\build --x 352 --y 85 --h 27 --w 55

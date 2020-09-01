@@ -1,0 +1,1 @@
+crop_process.py --name baby --ref crop_ref --path Benchmarks\baby --x 105 --y 163 --w 104 --h 73

@@ -1,0 +1,1 @@
+crop_process.py --name butterfly --ref crop_ref --path Benchmarks\butterfly --x 89 --y 35 --h 26 --w 55

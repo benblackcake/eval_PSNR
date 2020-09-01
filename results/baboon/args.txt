@@ -1,0 +1,1 @@
+crop_process.py --name baboon --ref crop_ref --path Benchmarks\baboon --x 132 --y 10 --h 64 --w 97

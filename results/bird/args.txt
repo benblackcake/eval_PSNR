@@ -1,0 +1,1 @@
+crop_process.py --name bird --ref crop_ref --path Benchmarks\bird
